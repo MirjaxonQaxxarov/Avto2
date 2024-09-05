@@ -1,0 +1,96 @@
+.fa-arrow-left{
+    color: white!important;
+    font-size: 40px!important;
+    margin:40px 20px 25px !important;
+}
+.key-1{
+    border: 1px solid black;
+    background-color: black;
+    width: 100%;
+    height: 100px;
+}
+.key-2{
+    border: 1px solid rgb(87, 77, 77);
+    background-color: rgb(87, 77, 77);
+    width: 80%;
+    height: 60px;
+    border-radius: 15px;
+}
+.key-02{
+    border: 1px solid rgb(87, 77, 77);
+    background-color: rgb(87, 77, 77);
+    width: 80%;
+    height: 30px;
+    border-radius: 15px;
+    
+}
+.key-3{
+    color: rgb(53, 47, 47);
+    margin-left: 20px;
+    font-size: 10px;
+}
+.key-4{
+    color: black;
+    font-size: 18px;
+    margin-left: 25px;
+}
+.key-03{
+    color: rgb(53, 47, 47);
+    margin-left: 20px;
+    font-size: 10px;
+    margin-top: -10px;
+}
+.key-20{
+    border: 1px solid yellow;
+    background-color: yellow;
+    width: 80%;
+    height: 60px;
+    border-radius: 15px;
+    margin-left: 80px;
+}
+.key-7{
+    color: black;
+    margin-left: 280px;
+}
+.key-8{
+    margin-left: 240px;
+    color: rgb(53, 47, 47);
+    font-size: 10px;
+    margin-top: -10px;
+}
+.teg-1{
+    border: 1px solid rgb(60, 53, 53);
+    background-color: rgb(60, 53, 53);
+    width: 100%;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+}
+.teg-2{
+    border: 1px solid yellow;
+    background-color: yellow;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin-top: 3px;
+}
+input{
+    width: 260px;
+    height: 60px;
+    margin-top: 2px;
+    background-color: rgb(60, 53, 53);
+    border: 1px solid yellow;
+    border-radius: 20px;
+}
+.fa-share{
+    color: black;
+    font-size: 35px;
+    margin-top: 10px;
+    margin-left: 13px;
+}
+.fa-handshake{
+    color: black;
+    font-size: 35px;
+    margin-top: 10px;
+    margin-left: 10px;
+}

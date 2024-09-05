@@ -1,0 +1,246 @@
+.card-1{
+    border: 1px solid black;
+    background-color: black;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    
+    
+}
+.fa-arrow-left{
+    font-size: 40px;
+    color: white;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.card-2{
+    color: white;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.card-3{
+    border: 1px solid yellow;
+    width: 60px;
+    height: 60px;
+    background-color: yellow;
+    border-radius: 50%;
+    margin-left: 140px;
+    margin-top: 5px;
+}
+.fa-share{
+    color: black;
+    font-size: 30px;
+    margin-left: 14px;
+    margin-top: 15px;
+}
+.card-4{
+    background-image: url('img/1721366586_6699f83a88938_image_0.jpg');
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 280px;
+    padding-top: 20px;
+}
+.font-10{
+    color: white;
+    font-size: 18px;
+}
+.font-11{
+    color: yellow;
+    font-size: 18px;
+}
+.img-6{
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid black;
+    background-color: black;
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+    margin-left: 210px;
+}
+.card-5{
+    border: 1px solid black;
+    background-color: black;
+    width: 100%;
+    height: 500px;
+    margin-top: -50px;
+    border-radius:40px;
+}
+.card-6{
+    border: 1px ;
+    width: 100%;
+    height: 90px;
+    display: flex;
+}
+.card-7{
+    font-size: 18px;
+    color: white;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.fa-place-of-worship{
+    font-size: 30px;
+    color: white;
+    margin: 50px;
+    margin: 0;
+    padding: 0;
+    margin-left: 13px;
+    margin-top: 10px;
+}
+.card-8{
+    border: 1px solid red;
+    background-color: red;
+    width: 70px;
+    height: 60px;
+    border-radius: 50%;
+    margin-left: 80px;
+    margin-top: 12px;
+}
+.card-9{
+    color: white;
+    font-size: 20px;
+    margin-top: 8px;
+    margin-left: 30px;
+}
+.card-10{
+    border: 1px;
+    width: 100%;
+    height: 28px;
+    display: flex;
+    margin-left: 15px;
+    
+}
+.card-11{
+    border: 1px solid yellow;
+    width: 46%;
+    height: 28px;
+}
+.card-12{
+    font-size: 18px;
+    color: white;
+    margin-left: 10px;
+    margin-top:5px;
+}
+.card-13{
+    font-size: 18px;
+    color: white;
+    margin-left: 150px;
+    margin-top: 5px;
+}
+.card-14{
+    font-size: 18px;
+    color: white;
+    margin-left: 120px;
+    margin-top: 5px;
+}
+.card-15{
+    font-size: 18px;
+    color: white;
+    margin-left: 90px;
+    margin-top: 5px;
+}
+.card-16{
+    font-size: 18px;
+    color: white;
+    margin-left: 95px;
+    margin-top: 5px;
+}
+.card-17{
+    font-size: 18px;
+    color: white;
+    margin-left: 120px;
+    margin-top: 5px;
+}
+.card-18{
+    font-size: 18px;
+    color: white;
+    margin-left: 160px;
+    margin-top: 5px;
+}
+.card-19{
+    font-size: 18px;
+    color: white;
+    margin-left: 142px;
+    margin-top: 5px;
+}
+.card-20{
+    font-size: 18px;
+    color: white;
+    margin-left: 135px;
+    margin-top: 5px;
+}
+.card-21{
+    font-size: 18px;
+    color: white;
+    margin-left: 135px;
+    margin-top: 5px;
+}
+.card-22{
+    color: white;
+    font-size: 18px;
+    margin-left: 20px;
+}
+.card-23{
+    width: 60px;
+    height: 40px;
+    margin-left: 340px;
+}
+.card-24{
+    border: 1px solid yellow;
+    background-color: yellow;
+    width: 100%;
+    height: 80px;
+    display: flex;
+    gap: 5px;
+}
+.card-25{
+    border: 1px solid black;
+    border-radius: 50%;
+    width: 13%;
+    height: 40px;
+    background-color: black;
+    margin-top: 16px;
+    margin-left: 10px;
+}
+.card-26{
+    border: 1px solid black;
+    background-color: black;
+    width: 47%;
+    height: 38px;
+    border-radius: 20px;
+    margin-top: 18px;
+    margin-left: 5px;
+    display: flex;
+}
+.fa-ring{
+    color: white;
+    font-size: 30px;
+    margin-left: 12px;
+    margin-top:5px;
+}
+.fa-timeline{
+    color: white;
+    font-size: 30px;
+    margin-left: 8px;
+    margin-top:5px;
+}
+.fa-message{
+    color: white;
+    font-size: 28px;
+    margin-left: 14px;
+    margin-top:7px;
+}
+.fa-phone{
+    color: white;
+    font-size: 25px;
+    margin-left: 12px;
+    margin-top:5px;
+}
+.card-27{
+    color: white;
+    font-size: 13px;
+    margin-left: 7px;
+}
+

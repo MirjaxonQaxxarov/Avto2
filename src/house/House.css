@@ -1,0 +1,190 @@
+
+.first{
+    color: white;
+    margin-left: 20px;
+    font-size: 25px;
+}
+.second{
+    display: flex;
+}
+.fa-music{
+    color: yellow;
+    font-size: 20px;
+    margin-left: 230px;
+    margin-top: 30px;
+}
+.fa-list{
+    color: yellow;
+    font-size: 20px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.house-1{
+    color: white;
+    font-size: 20px;
+    margin-left: 30px;
+}
+.house-01{
+    color: white;
+    font-size: 20px;
+    margin-left: 30px;
+}
+.house-001{
+    color: white;
+    font-size: 20px;
+    margin-left: 30px;
+}
+.house-100{
+    color: yellow;
+}
+.img-04{
+    border: 1px solid silver;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 300px;
+    background-image: url('img/1723216149_66b63115da9f3_image_0.jpg');
+    margin-top: 30px;
+}
+.img-2{
+    width: 100vw;
+    height: 150px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.img-3{
+    width: 100vw;
+    height: 150px;
+    justify-content: flex-end;
+}
+
+.img-6{
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid black;
+    background-color: black;
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+    margin-left: 180px;
+    margin-top: 70px;
+}
+.font-10{
+    color: white;
+    font-size: 18px;
+}
+.font-11{
+    color: yellow;
+    font-size: 18px;
+}
+.item{
+    color: yellow;
+}
+.second-div{
+    border: 1px solid rgb(31, 30, 30);
+    background-color: rgb(31, 30, 30);
+    width: 100%;
+    height: 300px;
+    border-radius: 15px;
+}
+.city{
+    color: white;
+}
+.str-1{
+    color: white;
+    margin-left: 80px;
+    margin-top: 300px;
+}
+.div-search{
+    display: flex;
+    height: 70px;
+    width: 100%;
+    gap: 15px;
+    
+}
+.search{
+    border: 1px solid yellow;
+    border-radius: 15px;
+    width: 22%;
+    height: 70px;
+    color: white;
+    font-size: 22px;
+}
+.items{
+    margin-top: 30px;
+    margin-left: 5px;
+}
+.house-2{
+    display: flex;
+}
+.house-3{
+    border: 1px solid yellow;
+    background-color: yellow;
+    width: 140px;
+    height: 38px;
+    border-radius: 15px;
+    margin-top: 25px;
+    margin-left: 12px;
+}
+.house-4{
+    border: 1px solid red;
+    background-color: red;
+    width: 100px;
+    height: 38px;
+    border-radius: 15px;
+    margin-top: 25px;
+    margin-left: 12px;
+}
+.house-5{
+    color: black;
+    font-size: 15px;
+    margin-left: 13px;
+}
+.footer{
+    border: 1px solid yellow;
+    background-color: yellow;
+    width: 100%;
+    height: 60px;
+    display: flex;
+    gap: 5px;
+    position: fixed;
+    bottom: 0;
+    justify-content: space-evenly;
+}
+.icon{
+    border: 1px solid yellow;
+    background-color: black;
+    border-radius: 50%;
+    width: 15%;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.icons{
+    border: 1px solid yellow;
+    background-color: white;
+    border-radius: 50%;
+    width: 15%;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.fist{
+    color: black;
+    margin-left: 20px;
+    font-size: 25px;
+    margin: 0;
+    padding: 0;
+    margin-left: 18px;
+    margin-top: 5px;
+}
+.seond{
+    color: yellow;
+    font-size: 25px;
+    margin: 0;
+    padding: 0;
+    margin-left: 18px;
+    margin-top: 5px;
+}
