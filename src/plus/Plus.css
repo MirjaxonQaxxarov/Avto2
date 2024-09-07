@@ -4,7 +4,7 @@
 .plus-1{
     color: white;
     border: 1px ;
-    width: 26.8rem;
+    width: 26rem;
     height: 10rem;
     position: fixed;
     background-color: var(--bg-color);
@@ -18,7 +18,7 @@
     gap:0.3rem;
     border: 1px solid rgb(107, 96, 96);
     background-color: rgb(107, 96, 96);
-    width: 26.8rem;
+    width: 26rem;
     height: 4.5rem;
 }
 .plus-4{
@@ -38,7 +38,7 @@
 }
 .plus-6{
     border: 1px;
-    width: 26.8rem;
+    width: 26rem;
     height:1.5rem;
     display: flex;
 }
@@ -54,7 +54,7 @@
 }
 .plus-9{
     border: 1px ;
-    width: 26.8rem;
+    width: 26rem;
     height: 3rem;
     display: flex;
     gap: 0.5rem;
@@ -88,19 +88,19 @@
 }
 .plus-14{
     border: 1px solid white;
-    width: 26.8rem;
+    width: 26rem;
     height: 3rem;
     border-radius: 0.8rem;
 }
 .plus-15{
     border: 1px solid white;
-    width: 26.8rem;
+    width: 26rem;
     height: 7rem;
     border-radius: 0.8rem;
 }
 .plus-16{
     border: 1px;
-    width: 26.8rem;
+    width: 26rem;
     height:1.5rem;
     display: flex;
 }
@@ -119,7 +119,7 @@
 }
 .plus-19{
     border: 1px solid ;
-    width: 26.8rem;
+    width: 26rem;
     height: 3rem;
     display: flex;
     gap: 0.5rem;

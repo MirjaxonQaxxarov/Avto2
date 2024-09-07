@@ -80,7 +80,7 @@
 .footer{
     border: 1px solid yellow;
     background-color: yellow;
-    width:26.8rem;
+    width:26rem;
     height: 3.5rem;
     display: flex;
     gap: 0.3rem;

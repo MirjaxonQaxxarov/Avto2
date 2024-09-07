@@ -6,7 +6,7 @@
 .key-1{
     border: 1px solid black;
     background-color: black;
-    width: 26.8rem;
+    width: 26rem;
     height: 7rem;
 }
 .key-2{
@@ -61,7 +61,7 @@
 .teg-1{
     border: 1px solid rgb(60, 53, 53);
     background-color: rgb(60, 53, 53);
-    width: 26.8rem;
+    width: 26rem;
     height: 4.5rem;
     display: flex;
     justify-content: space-between;

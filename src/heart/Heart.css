@@ -7,14 +7,14 @@
     border: 1px solid silver;
     background-position: center;
     background-size: cover;
-    width: 26.8rem;
+    width: 26rem;
     height: 18rem;
 }
 .img-01{
     border: 1px solid silver;
     background-position: center;
     background-size: cover;
-    width: 26.8rem;
+    width: 26rem;
     height: 18rem;
     background-image: url('/img/1719845055_6682c0bf6b81d_image_0.jpg');
 }
@@ -22,7 +22,7 @@
     border: 1px solid silver;
     background-position: center;
     background-size: cover;
-    width: 26.8rem;
+    width: 26rem;
     height: 18rem;
     background-image: url('/img/1720173843_6687c51319564_image_0.jpg');
 }
@@ -30,7 +30,7 @@
     border: 1px solid silver;
     background-position: center;
     background-size: cover;
-    width: 26.8rem;
+    width: 26rem;
     height: 18rem;
     background-image: url('/img/1721366586_6699f83a88938_image_0.jpg');
 }
@@ -38,7 +38,7 @@
     border: 1px solid silver;
     background-position: center;
     background-size: cover;
-    width: 26.8rem;
+    width: 26rem;
     height: 18rem;
     background-image: url('/img/1723216149_66b63115da9f3_image_0.jpg');
 }
@@ -128,7 +128,7 @@
 .second-div{
     border: 1px solid rgb(31, 30, 30);
     background-color: rgb(31, 30, 30);
-    width: 26.8rem;
+    width: 26rem;
     height: 18rem;
     border-radius: 0.8rem;
 }
@@ -138,7 +138,7 @@
 .div-search{
     display: flex;
     height: 4.5rem;
-    width: 26.8rem;
+    width: 26rem;
     gap: 0.8rem;
     
 }
@@ -159,7 +159,7 @@
     border: 1px solid silver;
     background-position: center;
     background-size: cover;
-    width: 26.8rem;
+    width: 26rem;
     height: 18rem;
 }
 .img-three{
@@ -167,7 +167,7 @@
     border: 1px solid silver;
     background-position: center;
     background-size: cover;
-    width: 26.8rem;
+    width: 26rem;
     height: 18rem;
 }
 .img-four{
@@ -175,7 +175,7 @@
     border: 1px solid silver;
     background-position: center;
     background-size: cover;
-    width: 26.8rem;
+    width: 26rem;
     height: 18rem;
 }
 .img-five{
@@ -183,6 +183,6 @@
     border: 1px solid silver;
     background-position: center;
     background-size: cover;
-    width: 26.8rem;
+    width: 26rem;
     height: 18rem;
 }
