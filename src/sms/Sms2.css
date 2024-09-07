@@ -1,96 +1,96 @@
 .fa-arrow-left{
     color: white!important;
-    font-size: 40px!important;
-    margin:40px 20px 25px !important;
+    font-size: 2.5rem!important;
+    margin:2.5rem 1rem 1.3rem !important;
 }
 .key-1{
     border: 1px solid black;
     background-color: black;
-    width: 100%;
-    height: 100px;
+    width: 26.8rem;
+    height: 7rem;
 }
 .key-2{
     border: 1px solid rgb(87, 77, 77);
     background-color: rgb(87, 77, 77);
-    width: 80%;
-    height: 60px;
-    border-radius: 15px;
+    width: 22rem;
+    height: 3.5rem;
+    border-radius: 0.8rem;
 }
 .key-02{
     border: 1px solid rgb(87, 77, 77);
     background-color: rgb(87, 77, 77);
-    width: 80%;
-    height: 30px;
-    border-radius: 15px;
+    width: 22rem;
+    height: 1.5rem;
+    border-radius: 0.8rem;
     
 }
 .key-3{
     color: rgb(53, 47, 47);
-    margin-left: 20px;
-    font-size: 10px;
+    margin-left: 1rem;
+    font-size: 0.5rem;
 }
 .key-4{
     color: black;
-    font-size: 18px;
-    margin-left: 25px;
+    font-size: 1rem;
+    margin-left: 1.3rem;
 }
 .key-03{
     color: rgb(53, 47, 47);
-    margin-left: 20px;
-    font-size: 10px;
-    margin-top: -10px;
+    margin-left: 1rem;
+    font-size: 0.5rem;
+    margin-top: -0.5rem;
 }
 .key-20{
     border: 1px solid yellow;
     background-color: yellow;
-    width: 80%;
-    height: 60px;
-    border-radius: 15px;
-    margin-left: 80px;
+    width: 22rem;
+    height: 3.5rem;
+    border-radius: 0.8rem;
+    margin-left: 5rem;
 }
 .key-7{
     color: black;
-    margin-left: 280px;
+    margin-left: 17rem;
 }
 .key-8{
-    margin-left: 240px;
+    margin-left: 22.5rem;
     color: rgb(53, 47, 47);
-    font-size: 10px;
-    margin-top: -10px;
+    font-size: 0.5rem;
+    margin-top: -0.5rem;
 }
 .teg-1{
     border: 1px solid rgb(60, 53, 53);
     background-color: rgb(60, 53, 53);
-    width: 100%;
-    height: 70px;
+    width: 26.8rem;
+    height: 4.5rem;
     display: flex;
     justify-content: space-between;
 }
 .teg-2{
     border: 1px solid yellow;
     background-color: yellow;
-    width: 60px;
-    height: 60px;
-    border-radius: 50%;
-    margin-top: 3px;
+    width: 3.5rem;
+    height: 3.5rem;
+    border-radius: 13rem;
+    margin-top: 0.2rem;
 }
 input{
-    width: 260px;
-    height: 60px;
-    margin-top: 2px;
+    width: 23.5rem;
+    height: 3.5rem;
+    margin-top: 0.1rem;
     background-color: rgb(60, 53, 53);
     border: 1px solid yellow;
-    border-radius: 20px;
+    border-radius: 1rem;
 }
 .fa-share{
     color: black;
-    font-size: 35px;
-    margin-top: 10px;
-    margin-left: 13px;
+    font-size: 1.8rem;
+    margin-top: 0.5rem;
+    margin-left: 10.2rem;
 }
 .fa-handshake{
     color: black;
-    font-size: 35px;
-    margin-top: 10px;
-    margin-left: 10px;
+    font-size: 1.8rem;
+    margin-top: 0.5rem;
+    margin-left: 0.5rem;
 }

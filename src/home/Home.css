@@ -3,121 +3,121 @@
     border: 1px solid silver;
     background-position: center;
     background-size: cover;
-    width: 100%;
-    height: 300px;
-    margin-top: 120px;
+    width: 26.8rem;
+    height: 18rem;
+    margin-top: 8rem;
     
 }
 .img-01{
     border: 1px solid silver;
     background-position: center;
     background-size: cover;
-    width: 100%;
-    height: 300px;
+    width: 26.8rem;
+    height: 18rem;
     background-image: url('/img/1719845055_6682c0bf6b81d_image_0.jpg');
 }
 .img-02{
     border: 1px solid silver;
     background-position: center;
     background-size: cover;
-    width: 100%;
-    height: 300px;
+    width: 26.8rem;
+    height: 18rem;
     background-image: url('/img/1720173843_6687c51319564_image_0.jpg');
 }
 .img-03{
     border: 1px solid silver;
     background-position: center;
     background-size: cover;
-    width: 100%;
-    height: 300px;
+    width: 26.8rem;
+    height: 18rem;
     background-image: url('/img/1721366586_6699f83a88938_image_0.jpg');
 }
 .img-04{
     border: 1px solid silver;
     background-position: center;
     background-size: cover;
-    width: 100%;
-    height: 300px;
+    width: 26.8rem;
+    height: 18rem;
     background-image: url('/img/1723216149_66b63115da9f3_image_0.jpg');
 }
 .img-2{
     width: 100vw;
-    height: 150px;
+    height: 9.5rem;
     display: flex;
     justify-content: space-between;
 }
 .img-3{
     width: 100vw;
-    height: 150px;
+    height: 9.5rem;
     justify-content: flex-end;
 }
 .img-4{
     border: 1px solid white;
     background-color: white;
-    width: 80px;
-    height: 50px;
-    border-radius: 15px;
-    margin-top: 50px;
-    margin-left: 20px;
+    width: 5rem;
+    height: 3rem;
+    border-radius: 0.8rem;
+    margin-top: 3rem;
+    margin-left: 1rem;
 }
 .img-7{
     color: red;
-    font-size: 25px;
+    font-size: 1.3rem;
     margin: 0;
     padding: 0;
-    margin-top: 10px;
-    margin-left: 20px;
+    margin-top: 0.5rem;
+    margin-left: 1rem;
 }
 .img-6{
     display: flex;
     justify-content: space-around;
     border: 1px solid black;
     background-color: black;
-    width: 200px;
-    height: 40px;
-    border-radius: 20px;
-    margin-left: 180px;
-    margin-top: 70px;
+    width: 9rem;
+    height: 2rem;
+    border-radius: 1rem;
+    margin-left: 8rem;
+    margin-top: 3.5rem;
 }
 .img-second{
     border: 1px solid white;
-    width: 100px;
+    width: 8rem;
     color: red;
-    height: 55px;
-    border-radius: 15px;
+    height: 5.5rem;
+    border-radius: 0.8rem;
     background-color: white;
-    margin-top: 20px;
-    margin-left: 20px;
+    margin-top: 1rem;
+    margin-left: 1rem;
 }
 .top-size{
-    margin-left: 30px;
+    margin-left: 1.5rem;
 }
 .second-sum{
     border: 1px solid black;
     background-color: black;
-    width: 200px;
-    height: 40px;
-    border-radius: 30px;
+    width: 12rem;
+    height: 2.5rem;
+    border-radius: 1.5rem;
     display: flex;
-    margin-left: 160px;
+    margin-left: 9rem;
 }
 .first-item{
     color: white;
-    margin-left: 30px;
-    margin-bottom: 10px;
+    margin-left: 1.5rem;
+    margin-bottom: 0.5rem;
 }
 .font-10{
     color: white;
-    font-size: 18px;
+    font-size: 1rem;
 }
 .font-11{
     color: yellow;
-    font-size: 18px;
+    font-size: 1rem;
 }
 .second-item{
     color: yellow;
-    margin-left: 30px;
-    margin-bottom: 10px;
+    margin-left: 1.5rem;
+    margin-bottom: 0.5rem;
 
 }
 .item{
@@ -126,61 +126,61 @@
 .second-div{
     border: 1px solid rgb(31, 30, 30);
     background-color: rgb(31, 30, 30);
-    width: 100%;
-    height: 300px;
-    border-radius: 15px;
+    width: 26.8rem;
+    height: 18rem;
+    border-radius: 0.8rem;
 }
 .city{
     color: white;
 }
 .div-search{
     display: flex;
-    height: 70px;
-    width: 100%;
-    gap: 15px;
+    height: 4.5rem;
+    width: 26.8rem;
+    gap: 0.8rem;
     
 }
 .search{
     border: 1px solid yellow;
-    border-radius: 15px;
-    width: 22%;
-    height: 70px;
+    border-radius: 0.8rem;
+    width: 6rem;
+    height: 4.5rem;
     color: white;
-    font-size: 22px;
+    font-size: 1.2rem;
 }
 .items{
-    margin-top: 30px;
-    margin-left: 5px;
+    margin-top: 1.5rem;
+    margin-left: 0.3rem;
 }
 .img-two{
     background-image: url('/img/1720173843_6687c51319564_image_0.jpg');
     border: 1px solid silver;
     background-position: center;
     background-size: cover;
-    width: 100%;
-    height: 300px;
+    width: 26.8rem;
+    height: 18rem;
 }
 .img-three{
     background-image: url('/img/1721316586_669934eab2d3c_image_0.jpg');
     border: 1px solid silver;
     background-position: center;
     background-size: cover;
-    width: 100%;
-    height: 300px;
+    width: 26.8rem;
+    height: 18rem;
 }
 .img-four{
     background-image: url('/img/1721366586_6699f83a88938_image_0.jpg');
     border: 1px solid silver;
     background-position: center;
     background-size: cover;
-    width: 100%;
-    height: 300px;
+    width: 26.8rem;
+    height: 18rem;
 }
 .img-five{
     background-image: url('/img/1723216149_66b63115da9f3_image_0.jpg');
     border: 1px solid silver;
     background-position: center;
     background-size: cover;
-    width: 100%;
-    height: 300px;
+    width: 26.8rem;
+    height: 18rem;
 }

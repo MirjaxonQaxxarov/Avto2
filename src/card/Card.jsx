@@ -63,15 +63,15 @@ function Card() {
 
                 <p className='card-22'>Boshqa Gentra avtomobillari orasida narx darajasi</p>
                 <img className='card-23' src="img/1721366586_6699f83a88938_image_0.jpg" alt="" />
-                <div className='card-24'>
+            </div>
+            <div className='card-24'>
                     <div className='card-25'><i className='fa-solid fa-ring'></i></div>
                     <div className='card-25'><i className='fa-solid fa-timeline'></i></div>
                     <div className='card-25'><i className='fa-solid fa-message'></i></div>
                     <div className='card-26'>
                         <Link to={'tel:998993178882'} className='fa-solid fa-phone'></Link>
                         <p className='card-27'>Sotuvchiga qongiroq qilish</p>
-                    </div>
-                </div>
+                     </div>
             </div>
         </div>
     )

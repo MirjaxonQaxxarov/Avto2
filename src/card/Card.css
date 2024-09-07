@@ -1,246 +1,247 @@
 .card-1{
     border: 1px solid black;
     background-color: black;
-    width: 100%;
-    height: 100px;
+    width: 26.8rem;
+    height: 7.5rem;
     display: flex;
-    
-    
+    position: fixed;
 }
 .fa-arrow-left{
-    font-size: 40px;
+    font-size: 3rem;
     color: white;
-    margin-left: 20px;
-    margin-top: 20px;
+    margin-left: 1rem;
+    margin-top: 1rem;
 }
 .card-2{
     color: white;
-    font-size: 20px;
-    margin-top: 30px;
-    margin-left: 20px;
+    font-size: 1rem;
+    margin-top: 2rem;
+    margin-left: 1rem;
 }
 .card-3{
     border: 1px solid yellow;
-    width: 60px;
-    height: 60px;
+    width: 3.5rem;
+    height: 3.5rem;
     background-color: yellow;
-    border-radius: 50%;
-    margin-left: 140px;
-    margin-top: 5px;
+    border-radius: 14rem;
+    margin-left: 8rem;
+    margin-top: 0.5rem;
 }
 .fa-share{
     color: black;
-    font-size: 30px;
-    margin-left: 14px;
-    margin-top: 15px;
+    font-size: 3rem;
+    margin-left: 1rem!important;
+    margin-top: 1rem!important;
 }
 .card-4{
     background-image: url('/img/1721366586_6699f83a88938_image_0.jpg');
     background-size: cover;
     background-position: center;
-    width: 100%;
-    height: 280px;
-    padding-top: 20px;
+    width: 26.8rem;
+    height: 24rem;
+    padding-top: 1rem;
 }
 .font-10{
     color: white;
-    font-size: 18px;
+    font-size: 1rem;
 }
 .font-11{
     color: yellow;
-    font-size: 18px;
+    font-size: 1rem;
 }
 .img-6{
     display: flex;
     justify-content: space-around;
     border: 1px solid black;
     background-color: black;
-    width: 200px;
-    height: 40px;
-    border-radius: 20px;
-    margin-left: 210px;
+    width: 10rem;
+    height: 2rem;
+    border-radius: 1rem;
+    margin-left: 10rem;
+    margin-top: 10rem!important;
 }
 .card-5{
     border: 1px solid black;
     background-color: black;
-    width: 100%;
-    height: 500px;
-    margin-top: -50px;
-    border-radius:40px;
+    width: 26.8rem;
+    height: 29.5rem;
+    margin-top: -2.5rem;
+    border-radius:2rem;
 }
 .card-6{
     border: 1px ;
-    width: 100%;
-    height: 90px;
+    width: 26.8rem;
+    height: 4.5rem;
     display: flex;
 }
 .card-7{
-    font-size: 18px;
+    font-size: 1.2rem;
     color: white;
-    margin-top: 30px;
-    margin-left: 20px;
+    margin-top: 1.5rem;
+    margin-left: 1rem;
 }
 .fa-place-of-worship{
-    font-size: 30px;
+    font-size: 1.7rem;
     color: white;
-    margin: 50px;
+    margin: 2rem;
     margin: 0;
     padding: 0;
-    margin-left: 13px;
-    margin-top: 10px;
+    margin-left: 0.9rem;
+    margin-top: 0.7rem;
 }
 .card-8{
     border: 1px solid red;
     background-color: red;
-    width: 70px;
-    height: 60px;
-    border-radius: 50%;
-    margin-left: 80px;
-    margin-top: 12px;
+    width: 4rem;
+    height: 3.5rem;
+    border-radius: 14rem;
+    margin-left: 4rem;
+    margin-top: 1rem;
 }
 .card-9{
     color: white;
-    font-size: 20px;
-    margin-top: 8px;
-    margin-left: 30px;
+    font-size: 1.5rem;
+    margin-top: 0.5rem;
+    margin-left: 2rem;
 }
 .card-10{
     border: 1px;
-    width: 100%;
-    height: 28px;
+    width: 26.8rem;
+    height: 1.7rem;
     display: flex;
-    margin-left: 15px;
+    margin-left: 1rem;
     
 }
 .card-11{
     border: 1px solid yellow;
-    width: 46%;
-    height: 28px;
+    width: 12.5rem;
+    height: 1.6rem;
 }
 .card-12{
-    font-size: 18px;
+    font-size: 1rem;
     color: white;
-    margin-left: 10px;
-    margin-top:5px;
+    margin-left: 0.5rem;
+    margin-top:0.3rem;
 }
 .card-13{
-    font-size: 18px;
+    font-size: 1rem;
     color: white;
-    margin-left: 150px;
-    margin-top: 5px;
+    margin-left: 9.5rem;
+    margin-top: 0.3rem;
 }
 .card-14{
-    font-size: 18px;
+    font-size: 1rem;
     color: white;
-    margin-left: 120px;
-    margin-top: 5px;
+    margin-left: 8rem;
+    margin-top: 0.3rem;
 }
 .card-15{
-    font-size: 18px;
+    font-size: 1rem;
     color: white;
-    margin-left: 90px;
-    margin-top: 5px;
+    margin-left: 6.8rem;
+    margin-top: 0.3rem;
 }
 .card-16{
-    font-size: 18px;
+    font-size: 1rem;
     color: white;
-    margin-left: 95px;
-    margin-top: 5px;
+    margin-left: 7rem;
+    margin-top: 0.3rem;
 }
 .card-17{
-    font-size: 18px;
+    font-size: 1rem;
     color: white;
-    margin-left: 120px;
-    margin-top: 5px;
+    margin-left: 8rem;
+    margin-top: 0.3rem;
 }
 .card-18{
-    font-size: 18px;
+    font-size: 1rem;
     color: white;
-    margin-left: 160px;
-    margin-top: 5px;
+    margin-left: 10rem;
+    margin-top: 0.3rem;
 }
 .card-19{
-    font-size: 18px;
+    font-size: 1rem;
     color: white;
-    margin-left: 142px;
-    margin-top: 5px;
+    margin-left: 9rem;
+    margin-top: 0.3rem;
 }
 .card-20{
-    font-size: 18px;
+    font-size: 1rem;
     color: white;
-    margin-left: 135px;
-    margin-top: 5px;
+    margin-left: 9rem;
+    margin-top: 0.3rem;
 }
 .card-21{
-    font-size: 18px;
+    font-size: 1rem;
     color: white;
-    margin-left: 135px;
-    margin-top: 5px;
+    margin-left: 9rem;
+    margin-top: 0.3rem;
 }
 .card-22{
     color: white;
-    font-size: 18px;
-    margin-left: 20px;
+    font-size: 1.2rem;
+    margin-left: 1rem;
 }
 .card-23{
-    width: 60px;
-    height: 40px;
-    margin-left: 340px;
+    width: 3rem;
+    height: 2rem;
+    margin-left: 21rem;
 }
 .card-24{
     border: 1px solid yellow;
     background-color: yellow;
-    width: 100%;
-    height: 80px;
+    width: 26.8rem;
+    height: 4rem;
     display: flex;
-    gap: 5px;
+    gap: 0.3rem;
+    position: fixed;
 }
 .card-25{
     border: 1px solid black;
-    border-radius: 50%;
-    width: 13%;
-    height: 40px;
+    border-radius: 14rem;
+    width: 3.7rem;
+    height: 2rem;
     background-color: black;
-    margin-top: 16px;
-    margin-left: 10px;
+    margin-top: 0.8rem;
+    margin-left: 0.5rem;
 }
 .card-26{
     border: 1px solid black;
     background-color: black;
-    width: 47%;
-    height: 38px;
-    border-radius: 20px;
-    margin-top: 18px;
-    margin-left: 5px;
+    width: 13rem;
+    height: 2rem;
+    border-radius: 1.2rem;
+    margin-top: 1rem;
+    margin-left: 0.3rem;
     display: flex;
 }
 .fa-ring{
     color: white;
-    font-size: 30px;
-    margin-left: 12px;
-    margin-top:5px;
+    font-size: 1.5rem;
+    margin-left: 1rem;
+    margin-top:0.3rem;
 }
 .fa-timeline{
     color: white;
-    font-size: 30px;
-    margin-left: 8px;
-    margin-top:5px;
+    font-size: 1.5rem;
+    margin-left: 0.4rem;
+    margin-top:0.3rem;
 }
 .fa-message{
     color: white;
-    font-size: 28px;
-    margin-left: 14px;
-    margin-top:7px;
+    font-size: 1.4rem;
+    margin-left: 0.8rem;
+    margin-top:0.4rem;
 }
 .fa-phone{
     color: white;
-    font-size: 25px;
-    margin-left: 12px;
-    margin-top:5px;
+    font-size: 1.3rem;
+    margin-left: 0.6rem;
+    margin-top:0.3rem;
 }
 .card-27{
     color: white;
-    font-size: 13px;
-    margin-left: 7px;
+    font-size: 0.8rem;
+    margin-left: 0.4rem;
 }
 

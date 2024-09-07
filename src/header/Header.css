@@ -1,6 +1,6 @@
 .first{
     color: yellow;
-    margin-left: 20px;
+    margin-left: 1rem;
 }
 .second{
     display: flex;
@@ -9,27 +9,27 @@
 .avto{
     display: flex;
     justify-content: space-around;
-    height: 30px;
-    width: 100%;
-    gap: 20px;
+    height: 1.5rem;
+    width: 26.8rem;
+    gap: 1rem;
     background-color: var(--bg-color);
     color: yellow;
 }
 .car{
     border: 1px solid rgb(85, 79, 79);
     background-color: rgb(85, 79, 79);
-    width: 28%;
-    height: 80px;
-    border-radius: 15px;
+    width: 8rem;
+    height: 5rem;
+    border-radius: 0.8rem;
 }
 .font-style{
     color: black;
-    margin-left: 10px;
+    margin-left: 0.5rem;
 }
 .src{
     position: fixed;
-    top: 0px;
-    width: 100%;
+    top: 0;
+    width: 26.8rem;
     background-color: var(--bg-color);
     color: yellow;
 }
@@ -37,11 +37,11 @@ span{
     margin: 1rem;
 }
 .img-uz{
-    width: 80px;
-    height: 50px;
-    margin-left: 20px;
+    width: 5rem;
+    height: 3rem;
+    margin-left: 1rem;
 }
 .font-styl{
     color: black;
-    margin-left: 17px;
+    margin-left: 1rem;
 }
