@@ -6,7 +6,7 @@ return(
        <div className='img-first'>
         <div className='img-2'>
             <div className='img-4'><p className='img-7'>Top</p></div>
-            <div className='img-5'><i style={{color:"red", backgroundColor:'black', fontSize:'1.5rem', marginTop:'3rem',marginLeft:'1rem'}} className='fa-solid fa-heart'/></div>
+            <div className='img-5'><i style={{color:"red", backgroundColor:'black', fontSize:'1.5rem', marginTop:'3rem',marginLeft:'-3rem'}} className='fa-solid fa-heart'/></div>
         </div>
         <div className='img-3'>
             <div className='img-6'>
@@ -30,7 +30,7 @@ return(
        <div className='img-01'>
         <div className='img-2'>
             <div className='img-4'><p className='img-7'>Top</p></div>
-            <div className='img-5'><i style={{color:"red", backgroundColor:'black', fontSize:'1.5rem', marginTop:'3rem',marginLeft:'1rem'}} className='fa-solid fa-heart'/></div>
+            <div className='img-5'><i style={{color:"red", backgroundColor:'black', fontSize:'1.5rem', marginTop:'3rem',marginLeft:'-3rem'}} className='fa-solid fa-heart'/></div>
         </div>
         <div className='img-3'>
             <div className='img-6'>
@@ -53,7 +53,7 @@ return(
        <div className='img-02'>
         <div className='img-2'>
             <div className='img-4'><p className='img-7'>Top</p></div>
-            <div className='img-5'><i style={{color:"red", backgroundColor:'black', fontSize:'1.5rem', marginTop:'3rem',marginLeft:'1rem'}} className='fa-solid fa-heart'/></div>
+            <div className='img-5'><i style={{color:"red", backgroundColor:'black', fontSize:'1.5rem', marginTop:'3rem',marginLeft:'-3rem'}} className='fa-solid fa-heart'/></div>
         </div>
         <div className='img-3'>
             <div className='img-6'>
@@ -76,7 +76,7 @@ return(
        <div className='img-03'>
         <div className='img-2'>
             <div className='img-4'><p className='img-7'>Top</p></div>
-            <div className='img-5'><i style={{color:"red", backgroundColor:'black', fontSize:'1.5rem', marginTop:'3rem',marginLeft:'1rem'}} className='fa-solid fa-heart'/></div>
+            <div className='img-5'><i style={{color:"red", backgroundColor:'black', fontSize:'1.5rem', marginTop:'3rem',marginLeft:'-3rem'}} className='fa-solid fa-heart'/></div>
         </div>
         <div className='img-3'>
             <div className='img-6'>
@@ -99,7 +99,7 @@ return(
        <div className='img-04'>
         <div className='img-2'>
             <div className='img-4'><p className='img-7'>Top</p></div>
-            <div className='img-5'><i style={{color:"red", backgroundColor:'black', fontSize:'1.5rem', marginTop:'3rem',marginLeft:'1rem'}} className='fa-solid fa-heart'/></div>
+            <div className='img-5'><i style={{color:"red", backgroundColor:'black', fontSize:'1.5rem', marginTop:'3rem',marginLeft:'-3rem'}} className='fa-solid fa-heart'/></div>
         </div>
         <div className='img-3'>
             <div className='img-6'>

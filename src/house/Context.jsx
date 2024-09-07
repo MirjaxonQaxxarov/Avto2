@@ -6,7 +6,7 @@ function Context() {
                 <div className='img-04'>
         <div className='img-2'>
             <div></div>
-            <div className='img-5'><i style={{color:"red", backgroundColor:'black', fontSize:'1.5rem', marginTop:'3rem',marginLeft:'1rem'}} className='fa-solid fa-heart'/></div>
+            <div className='img-5'><i style={{color:"red", backgroundColor:'black', fontSize:'1.5rem', marginTop:'3rem',marginLeft:'-3rem'}} className='fa-solid fa-heart'/></div>
         </div>
         <div className='img-3'>
             <div className='img-6'>
